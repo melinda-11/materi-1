@@ -4,9 +4,7 @@ class Hewan {
 	public $jumlah_kaki, $bisa_terbang, $suara;
 }
 
-	function bersuara(){
-		return "mbeeekkk";
-}
+
 
 class Kucing extends Hewan {
 	function bersuara(){ 
